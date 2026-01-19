@@ -1,5 +1,3 @@
-# python-s2
-Telegram assistant
 import os, time, re, sqlite3, random, asyncio, datetime
 from telegram import Update, ChatPermissions, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
